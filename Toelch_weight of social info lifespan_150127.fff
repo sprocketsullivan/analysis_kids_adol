@@ -1,0 +1,19 @@
+\apaappfig
+\setcounter{appendix}{0}
+\begin{figure*}[ht]
+\ifnextchar[{\eatarg}{}
+
+%\includegraphics[width=0.5\textwidth]{Figure_Methods}
+%\caption{In phase 1 (80 trials) players assessed their own accuracy and the accuracy of the other players in a perceptual task where they had to guess the position of a briefly flashed stimulus. After observing the stimulus for 50 ms players several distractor stimuli appeared in quick succession in random places along a circle. During the whole time players had to center their mouse pointer that was slowly moved by the computer in one direction. After this players had to guess the position of the stimulus and then saw the decisions of two other players as well as the actual position of the stimulus. In phase 2 players received information from phase 1. They always saw a combination of two guesses consisting of either individual information (red) or social information (green, yellow). Based on this information players made a second guess on the position of the stimulus. In the second phase players received no feedback.}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[ht]
+\ifnextchar[{\eatarg}{}
+[h]
+\includegraphics{Figure_1}
+\caption{}
+\label{fig:F1}
+\end{figure*}
+\efloatseparator
+ 
